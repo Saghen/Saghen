@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-Discord: Saghen#6423
+Discord: Saghen
+Matrix: @saghen:matrix.org
